@@ -3,81 +3,88 @@
 		{
 			"id": "1",
 			"title": "Post 1",
-			"author": "Leanne Graham",
+			"authorId": "1",
 			"rating": "0",
-			"date": "YYYY-MM-DD",
+			"date": "2010-01-01",
 			"question": "Kak ? Kak? Kak???????? kKA????",
-			"solved": "0"
+			"solved": "0",
+			"tag": "life"
 		},
 		{
 			"id": "2",
 			"title": "Post 2",
-			"author": "Leanne Graham",
+			"authorId": "3",
 			"rating": "0",
-			"date": "YYYY-MM-DD",
+			"date": "2010-02-01",
 			"question": "Kak ? Kak? Kak???????? kKA????",
-			"solved": "0"
+			"solved": "0",
+			"tag": "games"
 		},
 		{
 			"id": "3",
 			"title": "Post 3",
-			"author": "Leanne Graham",
+			"authorId": "4",
 			"rating": "0",
-			"date": "YYYY-MM-DD",
+			"date": "2010-05-01",
 			"question": "Kak ? Kak? Kak???????? kKA????",
-			"solved": "0"
+			"solved": "0",
+			"tag": "education"
 		},
 		{
 			"id": "4",
 			"title": "Post 4",
-			"author": "Leanne Graham",
+			"authorId": "4",
 			"rating": "0",
-			"date": "YYYY-MM-DD",
+			"date": "2010-09-01",
 			"question": "Kak ? Kak? Kak???????? kKA????",
-			"solved": "0"
+			"solved": "0",
+			"tag": "games"
 		},
 		{
 			"id": "5",
 			"title": "Post 5",
-			"author": "Leanne Graham",
+			"authorId": "4",
 			"rating": "0",
-			"date": "YYYY-MM-DD",
+			"date": "2010-04-01",
 			"question": "Kak ? Kak? Kak???????? kKA????",
-			"solved": "0"
+			"solved": "0",
+			"tag": "games"
 		},
 		{
 			"id": "6",
 			"title": "Post 6",
-			"author": "Leanne Graham",
+			"authorId": "4",
 			"rating": "0",
-			"date": "YYYY-MM-DD",
+			"date": "2010-02-01",
 			"question": "Kak ? Kak? Kak???????? kKA????",
-			"solved": "0"
+			"solved": "0",
+			"tag": "games"
 		},
 		{
 			"id": "7",
-			"title": "Post 7",
-			"author": "Leanne Graham",
+			"title": "Как ходить",
+			"authorId": "4",
 			"rating": "0",
-			"date": "YYYY-MM-DD",
+			"date": "2010-11-01",
 			"question": "Kak ? Kak? Kak???????? kKA????",
-			"solved": "0"
+			"solved": "0",
+			"tag": "games"
 		}
 	] ,
 	"comments": [
 		{
-		  "id": 1,
+		  "id": "1",
 		  "body": "some comment",
-		  "postId": 1,
-		  "authorId": 1,
-		  "solution": 0
+		  "postId": "1",
+		  "authorId": "1",
+		  "solution": "0"
 		},
 		{
-		  "id": 2,
+		  "id": "2",
 		  "body": "some comment",
-		  "postId": 1,
-		  "authorId": 2,
-		  "solution": 0
+		  "postId": "1",
+		  "authorId": "2",
+		  "solution": "0"
 		}
 	 ],
 	"user": [
